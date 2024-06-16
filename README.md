@@ -34,11 +34,6 @@ I'm a Java Developer with 3 years of experience in software development. I'm pas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hetpatel1999&layout=compact&theme=radical)
 
-## 🏆 Achievements
-
-- 🥇 AWS Cloud Practitioner
-- 🏅 AWS Cloud Developer Associate
-
 ## 📜 Certifications
 
 ### AWS Cloud Practitioner
